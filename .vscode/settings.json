@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/cc4b6fc8-0289-49ad-895c-19bf64ecbe60/resourceGroups/ResourceGroupLm1/providers/Microsoft.Web/sites/programa-matematica"
+}
